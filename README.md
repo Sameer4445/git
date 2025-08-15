@@ -6,7 +6,7 @@ A minimalistic live clock demo built with GitHub Pages. It dynamically displays 
 
 ##  Live Demo
 
-Check it out here: [https://sameer4445.github.io/git/](https://sameer4445.github.io/git/)
+Check it out here: [https://sameer4445.github.io/Digital_clock/](https://sameer4445.github.io/Digital_clock/)
 
 When opened, the page renders something like:
 
